@@ -1,23 +1,51 @@
-# Library-Management-System-Project
+# Library Management System
 
-A library management system is software that is designed to manage all the functions of a library. It helps librarian to maintain the database of new books and the books that are borrowed by members along with their due dates.
+A Java-based Library Management System using Linked Lists and MySQL.
+
+## Features
+- Add, Search, Delete Books
+- Issue and Return Books
+- Student Management
+- Database Integration (MySQL)
+
+## Technologies Used
+- Java (Swing)
+- MySQL
+- Data Structures (Linked Lists)
+
+## Author
+Shalvi Surve
+
+---
+LIBRARY MANAGEMENT SYSTEM:
+HOME / OPENING PAGE
+<img width="980" height="551" alt="image" src="https://github.com/user-attachments/assets/66721af6-069c-45d4-8e63-8d46a02c0c75" />
+ 
+
+LOGIN PAGE
+<img width="1027" height="577" alt="image" src="https://github.com/user-attachments/assets/287b82e2-8d5c-48cd-8f35-66d1b5870c67" />
 
 
-![loading](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/31d70921-d5ab-4fd7-907f-61e68e28da49)
+NAVIGATION PAGE
+<img width="999" height="562" alt="image" src="https://github.com/user-attachments/assets/3c395afa-df77-492e-8013-3ac3204edcd2" />
+ 
 
-![login](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/7668e6d6-eed4-43e4-8dfa-a54c0b37d359)
+STUDENT REGISTRATION
+ <img width="1011" height="569" alt="image" src="https://github.com/user-attachments/assets/f46a814a-0d6a-42ea-bfc5-c38593983652" />
 
-![home](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/cdc516a9-17fb-4da6-bc1f-27b704360530)
+ 
+ADD BOOK
+<img width="980" height="551" alt="image" src="https://github.com/user-attachments/assets/2162a6ed-e0a3-4fc3-93dd-6e510eafcb9a" />
+ 
 
-![Add Book](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/819581a7-a91e-4650-a50c-04a6eaf7d513)
+ISSUE BOOK
+<img width="990" height="556" alt="image" src="https://github.com/user-attachments/assets/d37c558f-708e-49aa-b508-2125531126f4" />
 
-![Student registration](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/b6b2d0e1-0187-4f50-a662-4c735ba50d33)
+ 
+RETURN BOOK
+<img width="1014" height="570" alt="image" src="https://github.com/user-attachments/assets/154280e1-c0f6-4426-93bc-2313af1d26c6" />
+ 
 
-![issue](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/d7f240ee-e93f-4a04-b3b8-27dfbb9cf814)
-
-![return](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/8aef7cf9-15e2-4e6d-aa62-b854e8a43fd7)
-
-![logout](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/1b224c1e-2ca2-448e-8f87-220a8662245a)
-
-
-![Screenshot_20241107-123605_1](https://github.com/user-attachments/assets/c2bc6530-5f94-4aff-9299-d8e705e0e146)
+LOGOUT
+<img width="1005" height="565" alt="image" src="https://github.com/user-attachments/assets/8aa6c697-30bb-48cd-92eb-eb34d78ea60a" />
+ 
